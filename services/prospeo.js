@@ -1,9 +1,9 @@
 async function findPeople(domain) {
-  console.log("⚠️ Using mock data (API deprecated)");
+  console.log(" Using mock data (API deprecated)");
 
   return [
     {
-      first_name: "John",
+      first_name: "Deepa",
       last_name: "Doe",
       email: "deepanshigupta877@gmail.com", // your email
       linkedin_url: "https://linkedin.com/in/johndoe"

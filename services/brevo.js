@@ -9,8 +9,8 @@ async function sendEmail(toEmail, name, domain) {
       "https://api.brevo.com/v3/smtp/email",
       {
         sender: {
-          name: "Deepa",
-          email: "deepanshigupta877@gmail.com" // MUST be verified in Brevo
+          name: "Deepanshi",
+          email: "deepanshigupta98765@gmail.com" // MUST be verified in Brevo
         },
         to: [
           {
